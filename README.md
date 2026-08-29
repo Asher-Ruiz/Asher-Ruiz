@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Asher Ruiz, a student at BYU studying Informat
 ## About Me
 🔭 I’m currently working on <a href="https://deficit-ly.com" target="_blank">deficit</a>, a full-stack personal fitness app.
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,6 +24,6 @@ Welcome to my GitHub profile! I'm Asher Ruiz, a student at BYU studying Informat
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]((https://www.linkedin.com/in/asher-ruiz-853149311/))
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:youremail@example.com)
+
 ## Website
 [Resume](https://asher-ruiz.github.io/Resume/)
